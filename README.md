@@ -19,13 +19,22 @@
 
 ## 🧰 Tools and Languages 
 
-[![My Skills](https://skillicons.dev/icons?i=python,cs,postman,terraform,bash,django,docker,mongodb,postgres,rabbitmq,redhat,regex,unity,git,gitlab,grafana,github,ansible,flask,linux,vscode,discord,stackoverflow,figma,ps,apple,&perline=8)](https://skillicons.dev) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=css-bv&layout=compact&theme=github_dark&hide_border=true)](https://github.com/CssBv/github-readme-stats) 
+![Snake ](https://github.com/Platane/snk/blob/output/github-contribution-grid-snake-dark.svg)
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=css-bv&show_icons=true&theme=github_dark&hide_border=true) [![GitHub Streak](https://streak-stats.demolab.com?user=css-bv&theme=github-dark-blue&hide_border=true&border_radius=15.1&mode=weekly)](https://git.io/streak-stats)
 
 ---
 
 ## 📊 Stats
 
 ![Snake ](https://github.com/Platane/snk/blob/output/github-contribution-grid-snake-dark.svg)
+
+
+---
+
+<details>
+ <summary><h3> My Coding Journey</h3></summary>
+    I started coding at the age of 16. :)
 
 
 <!---
